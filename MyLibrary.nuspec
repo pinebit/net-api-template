@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MyLibrary</id>
+    <version>1.0.0</version>
+    <authors>MyCompany</authors>
+    <owners>MyCompany</owners>
+    <licenseUrl>https://github.com/pinebit/net-api-template/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/pinebit/net-api-template/master/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Visual Studio solution structure and settings validator.</description>
+    <releaseNotes>Visual Studio solution structure and settings validator.</releaseNotes>
+    <copyright>Copyright (c) My 2015</copyright>
+    <tags>sample net api library template</tags>
+	<dependencies>
+		<!-- <dependency id="another-package" version="3.0.0" /> -->
+	</dependencies>
+  </metadata>
+  <files>
+	<file src="bin\Debug\MyLibrary.dll" target="lib" />
+	<file src="bin\Debug\MyLibrary.pdb" target="lib" />
+  </files>
+</package>
