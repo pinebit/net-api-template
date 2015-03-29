@@ -5,8 +5,9 @@
     <version>1.0.0</version>
     <authors>MyCompany</authors>
     <owners>MyCompany</owners>
-    <licenseUrl>https://github.com/pinebit/net-api-template/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/pinebit/net-api-template/master/</projectUrl>
+    <title>MyLibrary: .NET API template</title>
+    <licenseUrl>https://github.com/pinebit/net-api-template/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/pinebit/net-api-template</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>TBD</description>
     <releaseNotes>TBD</releaseNotes>
